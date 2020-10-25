@@ -1,0 +1,39 @@
+history
+    1  docker pull mysql
+    2  docker run --name mysqlteste -e MYSQL_ROOT_PASSWORD=admin -d mysql
+    3  ls
+    4  pwd
+    5  docker exec -it mysqlteste bash
+    6  history
+    7  git clone https://github.com/Renanjs1997/AC4.git
+    8  docker ps
+    9  docker image build -t fibo .
+   10  docker image build -t python-hello-world .
+   11  docker run image build -t python-hello-world .
+   12  docker run -p 5001:5000 -d python-hello-world
+   13  docker run image build -t fibo .
+   14  docker run image build -t fibo .
+   15  ls
+   16  AC4
+   17  cd AC4
+   18  ls
+   19  docker run image build -t fibo .
+   20  docker run image biuld -t fibo .
+   21  ls
+   22  docker run image build -t fibo .
+   23  docker run image build -t fibo.
+   24  docker run image build - t fibo .
+   25  ls
+   26  git status
+   27  git status
+   28  docker run image build -t fibo .
+   29  docker run image build -t fibo .
+   30  docker image build -t fibo .
+   31  docker run -p 5001:5000 -d
+   32  docker run -p 5001:5000 -d fibo
+   33  docker ps
+   34  history
+   35  cp fibo.py app.py
+   36  docker image build -t fibo2 .
+   37  docker run -p 5002:5000 -d fibo2
+   38  history
